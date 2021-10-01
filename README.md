@@ -1,3 +1,11 @@
 SERVICE_MEDIA with Express.js
 
-localhost:8080
+
+setting.env
+
+PORT=8080
+
+DB_NAME=media-database
+DB_USERNAME=root
+DB_PASSWORD=
+DB_HOSTNAME=localhost
